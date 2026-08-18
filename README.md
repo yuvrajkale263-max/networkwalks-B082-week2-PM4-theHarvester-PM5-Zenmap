@@ -202,3 +202,9 @@ Using theHarvester, publicly available information about an authorized target wa
 The practical demonstrated how reconnaissance can help security professionals understand an organization's external exposure, while network discovery provides visibility into devices within a network.
 
 Overall, this project strengthened practical knowledge of OSINT, network scanning, IP addressing, subnetting, and penetration testing methodology, while emphasizing the importance of conducting security testing only within an authorized environment.
+
+### Author
+  **Yuvraj Kale**
+  
+Cybersecurity Intern — Batch B082
+NETWORKWALKS
